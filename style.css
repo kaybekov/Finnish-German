@@ -30,13 +30,15 @@ main {
     padding: 20px;
 }
 
+
 footer {
     background: #333;
     color: #fff;
     text-align: center;
-    padding: 10px 0; /* Reduced padding */
-    font-size: 0.8rem; /* Smaller font size */
+    padding: 5px 0; /* Further reduced padding */
+    font-size: 0.7rem; /* Even smaller font size */
 }
+
 
 body {
     font-family: 'Open Sans', sans-serif; /* New font family */
